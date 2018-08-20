@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Laba22Bobol</string>
+    <string name="URL">http://192.168.0.1:8000</string>
+    <string name="word">Слово: </string>
+    <string name="translate">Перевод: </string>
+    <string name="add">Добавить </string>
+    <string name="errorRepeat">Такое слово уже существует</string>
+    <string name="errorEmptyWord">С начало введите слово</string>
+    <string name="errorEmptyTranslate">Введите перевод</string>
+    <string name="successfulAdd">Слово успешно добавлено! Его id = %d</string>
+    <string name="chooseFile">Выбрать файл</string>
+    <string name="chooseJSONFile">Выберите JSON файл</string>
+    <string name="errorFile">С начало выберите файл</string>
+    <string name="errorFileOpen">Ошибка открытия файла</string>
+    <string name="errorFileStruct">Ошибка в структруте файла</string>
+    <string name="successfulAddWords">Слова успешно добавлены!</string>
+    <string name="threadWaring">Вы уверены что хотите выйти? Поток ещё не закончил
+    выполнение</string>
+    <string name="exit">Выход</string>
+    <string name="cancel">Отмена</string>
+    <string name="change">Сменить</string>
+    <string name="check">Проверить</string>
+    <string name="victory">Поздравляем! Верно</string>
+    <string name="loss">Сожалеем! Не верно</string>
+    <string name="skip">Пропустить</string>
+    <string name="pronounce">Произнести</string>
+    <string name="record">Запись</string>
+    <string name="stop">Остановить</string>
+    <string name="errorRecord">Ошибка записи</string>
+    <string name="successfulAddSound">Звук усешно добавлен</string>
+    <string name="errorAddSound">Ну удалось добавить звук</string>
+    <string name="errorPlaySound">Ошибка воспроизведения звука</string>
+    <string name="play">Воспроизвести</string>
+    <string name="errorDBSize">В базе слишком мало данных</string>
+    <string name="errorWordEnded">Слова закончились</string>
+    <string name="errorWordNotFound">Слово не найдено</string>
+    <string name="address">Адрес:</string>
+    <string name="port">Порт:</string>
+    <string name="ok">OK</string>
+</resources>
